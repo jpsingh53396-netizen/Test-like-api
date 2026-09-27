@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 MAIN_API = "https://like-bot-mera.vercel.app/like"
-API_KEY = "saito"
+API_KEY = "hatt"
 
 
 @app.route("/", methods=["GET"])
